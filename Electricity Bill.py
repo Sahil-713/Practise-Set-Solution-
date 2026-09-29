@@ -12,5 +12,5 @@ else:
 
 print("\n--- Electricity Bill ---")
 print("Unit Consumed:", Units)
-print("Total Bill:", Bill, "Rupess Only-/")
+print("Total Bill:", Bill, "Rupess Only")
 
